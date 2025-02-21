@@ -22,16 +22,16 @@ Bug Hunter's Toolkit (BHT) is a powerful, extensible, and user-friendly tool des
 ### Prerequisites
 - Python 3.7+
 - Node.js (for React frontend)
-- Docker *(optional, for containerized deployment)*
 
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bug-hunter-toolkit.git
-   cd bug-hunter-toolkit/backend
+   git clone https://github.com/Mahaveer1013/bug-bounty-project.git
+   cd bug-bounty-project
    ```
 2. Create a virtual environment and install dependencies:
    ```bash
+   cd backend
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install -r requirements.txt
@@ -53,16 +53,9 @@ Bug Hunter's Toolkit (BHT) is a powerful, extensible, and user-friendly tool des
    ```
 3. Start the React development server:
    ```bash
-   npm start
+   npm run dev
    ```
    The frontend will be available at [http://127.0.0.1:3000](http://127.0.0.1:3000).
-
-### Docker Setup (Optional)
-Build and run the Docker containers:
-```bash
-docker-compose up --build
-```
-This will start both the backend and frontend services.
 
 ## Usage
 1. Open the React frontend in your browser: [http://127.0.0.1:3000](http://127.0.0.1:3000).
@@ -89,7 +82,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 For questions or feedback, feel free to reach out:
-- **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Email**: mahaveer30032005@gmail.com
+- **LinkedIn**: [Linkedin:Mahaveer1013](https://linkedin.com/in/mahaveer1013)
+- **Email**: mahaveer30032005@gmail.com
+- **GitHub**: [Github:Mahaveer1013](https://github.com/mahaveer1013)
 
 **Happy Bug Hunting!** 🐛🔍
