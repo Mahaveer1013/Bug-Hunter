@@ -26,8 +26,8 @@ Bug Hunter's Toolkit (BHT) is a powerful, extensible, and user-friendly tool des
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mahaveer1013/bug-bounty-project.git
-   cd bug-bounty-project
+   git clone https://github.com/Mahaveer1013/Bug-Hunter.git
+   cd Bug-Hunter
    ```
 2. Create a virtual environment and install dependencies:
    ```bash
