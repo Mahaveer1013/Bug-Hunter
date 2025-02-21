@@ -1,0 +1,10 @@
+open two terminal, one for frontend and one backend
+
+1.  cd backend
+    python -m venv venv
+    pip install requirements.txt
+    uvicorn main:app --reload
+
+2.  cd frontend
+    npm install
+    npm run dev
