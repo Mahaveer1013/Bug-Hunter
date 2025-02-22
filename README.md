@@ -84,6 +84,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 For questions or feedback, feel free to reach out:
 - **Email**: mahaveer30032005@gmail.com
 - **LinkedIn**: [Linkedin:Mahaveer1013](https://linkedin.com/in/mahaveer1013)
+- **Email**: mahaveer30032005@gmail.com
 - **GitHub**: [Github:Mahaveer1013](https://github.com/mahaveer1013)
 
 **Happy Bug Hunting!** 🐛🔍
