@@ -1,0 +1,2 @@
+cd /home/ubuntu/bug-bounty-project/backend ; /usr/bin/env /usr/bin/python3 /home/ubuntu/.vscode-server/extensions/ms-python.debug
+py-2025.0.1-linux-x64/bundled/libs/debugpy/adapter/../../debugpy/launcher 41309 -- -m uvicorn main:app --reload 

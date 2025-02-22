@@ -1,2 +1,8 @@
 fastapi
 uvicorn
+asyncio
+aiohttp
+requests
+playwright 
+beautifulsoup4
+aiodns
